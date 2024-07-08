@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:iron_door",
+    "minecraft:iron_block",
+    "minecraft:heavy_weighted_pressure_plate" ,
+	"immersive_weathering:waxed_iron_door" ,
+	"immersive_weathering:exposed_iron_door" ,
+	"immersive_weathering:weathered_iron_door" ,
+	"immersive_weathering:rusted_iron_door" ,
+	"immersive_weathering:waxed_exposed_iron_door" ,
+	"immersive_weathering:waxed_weathered_iron_door"
+  ]
+}
