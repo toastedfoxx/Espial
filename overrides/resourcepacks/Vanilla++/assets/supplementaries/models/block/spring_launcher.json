@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_piston",
-  "textures": {
-    "platform": "supplementaries:block/spring_launcher_top",
-    "bottom": "supplementaries:block/spring_launcher_bottom",
-    "side": "supplementaries:block/spring_launcher_side"
-  }
-}

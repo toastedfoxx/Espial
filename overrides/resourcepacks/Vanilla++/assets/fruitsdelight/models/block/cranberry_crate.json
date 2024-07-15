@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "bottom": "fruitsdelight:block/crate_bottom",
-    "side": "fruitsdelight:block/cranberry_crate_side",
-    "top": "fruitsdelight:block/cranberry_crate_top"
-  }
-}

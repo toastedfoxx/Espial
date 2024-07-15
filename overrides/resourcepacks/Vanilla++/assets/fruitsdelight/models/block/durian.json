@@ -1,8 +1,0 @@
-{
-  "parent": "fruitsdelight:block/durian_base",
-  "render_type": "minecraft:cutout",
-  "textures": {
-    "side": "fruitsdelight:block/durian_side",
-    "top": "fruitsdelight:block/durian_top"
-  }
-}
